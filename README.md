@@ -1,4 +1,4 @@
-#Fraud Detection Using Machine Learning#
+# Fraud Detection Using Machine Learning #
 Overview
 This project is a fraud detection system using machine learning techniques. It allows users to input transaction data and determine whether the transaction is fraudulent or legitimate. The project is implemented as an interactive web application using the Streamlit library.
 
