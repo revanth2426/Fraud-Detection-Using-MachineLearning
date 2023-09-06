@@ -9,3 +9,5 @@ This project is a fraud detection system using machine learning techniques. It a
 Before running the project, make sure you have the following Python libraries installed:
 
 - [Streamlit](https://streamlit.io/): A Python library used for building interactive web applications for data science and machine learning projects.
+
+- [scikit-learn](https://scikit-learn.org/stable/): A Python library for machine learning and data mining.
